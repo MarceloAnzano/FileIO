@@ -19,19 +19,20 @@ int main()
         c++;
     }
 
-    for(c = 0; c<10000; c++)
+    //Laman ng Array
+    /*for(c = 0; c<10000; c++)
     {
         cout<<numbers[c]<<endl;
-    }
+    }*/
 
-   /*for( n=0;n<11;n++)
+   for( n=0;n<10000;n++)
     {
         if(numbers[n]>x)
             {
                 x = numbers[n];
             }
     }
-    cout<<x;*/
+    cout<<x;
     myfile.close();
 
     return 0;

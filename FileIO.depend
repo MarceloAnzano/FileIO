@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1359482461 source:d:\users\anzano-\documents\prog\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
